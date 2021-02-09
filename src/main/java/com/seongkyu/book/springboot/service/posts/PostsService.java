@@ -2,6 +2,7 @@ package com.seongkyu.book.springboot.service.posts;
 
 import com.seongkyu.book.springboot.domain.posts.PostsRepository;
 import com.seongkyu.book.springboot.web.dto.PostsSaveRequestDto;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
