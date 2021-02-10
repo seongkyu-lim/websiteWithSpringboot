@@ -1,6 +1,7 @@
 package com.seongkyu.book.springboot.web;
 
 import com.seongkyu.book.springboot.service.posts.PostsService;
+import com.seongkyu.book.springboot.web.dto.PostsResponseDto;
 import com.seongkyu.book.springboot.web.dto.PostsSaveRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
